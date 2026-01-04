@@ -13,7 +13,7 @@ npm install
 ```
 
 
-## Commands
+## Commands (within the notes-app directory)
 
 ### Add a Note
 Add a new note with a title and body.
